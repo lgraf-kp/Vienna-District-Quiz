@@ -1,0 +1,56 @@
+[
+    {
+        "_id": "67d2e21c8d30547988a4ce3c",
+        "kulturpool_url": "https://kulturpool.at/institutionen/wien-museum/79000%2F11033",
+        "shown_at": "https://sammlung.wienmuseum.at/objekt/163571/",
+        "shown_by": {
+            "id": "https://sammlung.wienmuseum.at/openapi-images/objects/163571/2931772_default.jpg",
+            "type": "WebResource"
+        },
+        "place_data": [
+            "1. Bezirk: Innere Stadt, Wien"
+        ],
+        "creator": [
+            "Bruno Reiffenstein"
+        ],
+        "date": [
+            "1941"
+        ],
+        "subject": [
+            "Haus in Kombination mit einem Laden bzw. Gesch\u00e4ft",
+            "Firmenschild",
+            "Prachtstra\u00dfe, Boulevard, Promenade, Esplanade",
+            "Opernring"
+        ]
+    },
+    {
+        "_id": "67d2e21c8d30547988a4ce40",
+        "kulturpool_url": "https://kulturpool.at/institutionen/wien-museum/79000%2F11035",
+        "shown_at": "https://sammlung.wienmuseum.at/objekt/163574/",
+        "shown_by": {
+            "id": "https://sammlung.wienmuseum.at/openapi-images/objects/163574/2931774_default.jpg",
+            "type": "WebResource"
+        },
+        "place_data": [
+            "1. Bezirk: Innere Stadt, Wien"
+        ],
+        "creator": [
+            "Bruno Reiffenstein"
+        ],
+        "date": [
+            "1941"
+        ],
+        "subject": [
+            "Palais / Palast",
+            "Denkmal, Statue",
+            "Skulptur, Plastik, Bildhauerkunst",
+            "Haus in Kombination mit einem Laden bzw. Gesch\u00e4ft",
+            "Firmenschild",
+            "Autobus, Reisebus",
+            "Litfa\u00dfs\u00e4ule, Plakats\u00e4ule",
+            "Palais Schey",
+            "Opernring",
+            "Goethedenkmal"
+        ]
+    }
+]
